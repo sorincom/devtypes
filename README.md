@@ -1,5 +1,3 @@
-# devtypes
-
 ## Developer Jobs PDF
 https://github.com/sorincom/devtypes/raw/main/Developer%20Types.pdf
 

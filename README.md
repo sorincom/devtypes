@@ -9,7 +9,15 @@ https://github.com/sorincom/devtypes/raw/main/Developer%20Types.pdf
 ## Agile Subway Map
 https://www.agilealliance.org/agile101/subway-map-to-agile-practices/
 
-## Google Teachable Machines Project (Cats)
+## Machine Learning
+
+### Google Teachable Machine
+https://teachablemachine.withgoogle.com/
+
+### Tensorflow Playground
+https://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=4,2&seed=0.03703&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false
+
+### Google Teachable Machines Project (Cats)
 https://github.com/sorincom/gtm-cats
 
 ## SpacedIn Event 5 Nov 2022

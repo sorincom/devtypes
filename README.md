@@ -19,6 +19,3 @@ https://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&r
 
 ### Google Teachable Machines Project (Cats)
 https://github.com/sorincom/gtm-cats
-
-## SpacedIn Event 5 Nov 2022
-https://docs.google.com/forms/d/e/1FAIpQLSfke0oVz61JSV-Kz4A_KAr7fV_wrRMWmQEzlwb1RA-3_LiI0A/viewform
